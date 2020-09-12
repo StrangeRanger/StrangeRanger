@@ -11,15 +11,15 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 ### Notable Repos/Projects
 
-<a href="https://github.com/StrangeRanger">
+<a href="https://github.com/StrangeRanger/linux-security-scripts">
   <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=material-palenight" alt="inspector" />
 </a>
-<a href="https://github.com/StrangeRanger">
+<a href="https://github.com/StrangeRanger/macos-security-scripts">
   <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=material-palenight" alt="inspector" />
 </a>
-<a href="https://github.com/StrangeRanger">
+<a href="https://github.com/StrangeRanger/inspector">
   <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=material-palenight" alt="inspector" />
 </a>
-<a href="https://github.com/StrangeRanger">
+<a href="https://github.com/StrangeRanger/string-permutation">
   <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=string-permutation&theme=material-palenight" alt="inspector" />
 </a>
