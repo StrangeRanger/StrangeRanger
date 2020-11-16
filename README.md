@@ -6,7 +6,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
   <img src="https://github-readme-stats.strangeranger.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true&hide_title=true" alt="Hunter's Github Stats" />
 </a>
 <a href="https://github.com/StrangeRanger">
-  <img src="https://github-readme-stats.strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight" alt="Hunter's Github Stats" />
+  <img src="https://github-readme-stats.strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=midnight-purple" alt="Hunter's Github Stats" />
 </a>
 
 ## Notable Repos/Projects
