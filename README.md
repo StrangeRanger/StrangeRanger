@@ -1,6 +1,8 @@
 ## Welcome!
 
-Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security. 
+Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
+
+To keep myself organized, I keep track of all the projects that I am currently working on, have on hold, etc. If you're interested in checking that out, you can take a look at my [Project Tracker](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c).
 
 <a href="https://github.com/StrangeRanger">
   <img src="https://github-readme-stats.strangeranger.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true&hide_title=true" alt="Hunter's Github Stats" />
