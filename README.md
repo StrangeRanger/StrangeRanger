@@ -1,4 +1,6 @@
-## Welcome!
+# Welcome!
+
+![Profile views](https://komarev.com/ghpvc/?username=StrangeRanger)
 
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
