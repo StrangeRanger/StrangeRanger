@@ -31,3 +31,9 @@ To keep myself organized, I keep track of all the projects that I am currently w
 <a href="https://github.com/StrangeRanger">
   <image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
 </a>
+
+## Activity Chart
+
+<a href="https://github.com/StrangeRanger">
+  <image align="center" src="https://activity-graph.herokuapp.com/graph?username=StrangeRanger&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Hunter's Github Activity Chart" />
+</a>
