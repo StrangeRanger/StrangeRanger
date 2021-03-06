@@ -1,49 +1,13 @@
 # Welcome!
 
-<!--![Profile views](https://komarev.com/ghpvc/?username=StrangeRanger)-->
+![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-and-square&logo=GitHub)
+
+<!--![Profile views](https:/ /komarev.com/ghpvc/?username=StrangeRanger)-->
 
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
-To keep myself organized, I keep track of all the projects that I am currently working on, have on hold, etc. If you're interested in checking that out, you can take a look at my [Project Tracker](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c).
 
-<hr>
-<img align="right" src="https://github-readme-stats.strangeranger.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true&hide_title=true" alt="Hunter's Github Stats" />
-<br>
-
-- You can reach me: **strangeranger01@randomserver.xyz**
-
-- Website: [https://randomserver.xyz](https://randomserver.xyz)
-
-<br>
-<br>
-
-**Languages, Techonologies, and Tools I Use**
-
-<!-- 
-| Languages
-| ---------
-| Bash script, Python, Java, C, HTML, CSS
-| 
-| Programming and Text Editor Tools
-| ---------------------------------
-| Vim, JetBrains
-|
-| Operating Systems
-| -----------------
-| Linux, macOS
-|
-| Automation
-| ----------
-| Ansible
-|
-| Server Stuff
-| ------------
-| Digital Ocean, Apache
-|
-| Other
-| -----
-| Brave, DuckDuckGo
--->
+### Languages, Techonologies, and Tools I Use
 
 <img align="right" src="https://github-readme-stats.strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
@@ -61,9 +25,43 @@ To keep myself organized, I keep track of all the projects that I am currently w
 <img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
 <img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
+<br>
+<br>
+
+<!-- Part X --><hr>
+
+<a href="https://github.com/StrangeRanger">
+<img align="center" float="right" width="49%" src="https://github-readme-stats.strangeranger.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true" alt="Hunter's Github Stats" />
+</a>
+<a href="https://github.com/StrangeRanger">
+<image align="center" width="49%" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
+</a>
+<br>
+
+<!-- Part X -->
 
 <br>
-<hr>
+<details>
+  <summary>Github Activity Chart</summary>
+<image align="center" src="https://activity-graph.herokuapp.com/graph?username=StrangeRanger&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Hunter's Github Activity Chart" />
+</details>
+<br>
+
+
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+<!-- Part X --><hr>
 
 ## Notable Repos/Projects
 
@@ -81,14 +79,3 @@ To keep myself organized, I keep track of all the projects that I am currently w
 </a>
 
 <br>
-
-<!--
-## Streak Stats
-<a href="https://github.com/StrangeRanger">
-  <image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
-</a>
-## Activity Chart
-<a href="https://github.com/StrangeRanger">
-  <image align="center" src="https://activity-graph.herokuapp.com/graph?username=StrangeRanger&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Hunter's Github Activity Chart" />
-</a>
--->
