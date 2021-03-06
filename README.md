@@ -25,3 +25,9 @@ To keep myself organized, I keep track of all the projects that I am currently w
 <a href="https://github.com/StrangeRanger/string-permutation">
   <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=string-permutation&theme=material-palenight" alt="inspector" />
 </a>
+
+## Streak Stats
+
+<a href="https://github.com/StrangeRanger">
+  <image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
+</a>
