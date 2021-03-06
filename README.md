@@ -17,7 +17,33 @@ To keep myself organized, I keep track of all the projects that I am currently w
 <br>
 <br>
 
-**Languages, Techonologies, and Tools**
+**Languages, Techonologies, and Tools I Use**
+
+<!-- 
+| Languages
+| ---------
+| Bash script, Python, Java, C, HTML, CSS
+| 
+| Programming and Text Editor Tools
+| ---------------------------------
+| Vim, JetBrains
+|
+| Operating Systems
+| -----------------
+| Linux, macOS
+|
+| Automation
+| ----------
+| Ansible
+|
+| Server Stuff
+| ------------
+| Digital Ocean, Apache
+|
+| Other
+| -----
+| Brave, DuckDuckGo
+-->
 
 <img align="right" src="https://github-readme-stats.strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
