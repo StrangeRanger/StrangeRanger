@@ -1,7 +1,7 @@
 # Welcome!
 
-![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-and-square&logo=GitHub)
-![Twitter](https://img.shields.io/badge/-Twitter-292d3e?style=flat-and-square&logo=Twitter)
+[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-and-square&logo=GitHub)](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c)
+[![Twitter](https://img.shields.io/badge/-Twitter-292d3e?style=flat-and-square&logo=Twitter)](https://twitter.com/_Hunter_T_)
 
 <!--![Profile views](https:/ /komarev.com/ghpvc/?username=StrangeRanger)-->
 
