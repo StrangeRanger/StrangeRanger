@@ -1,13 +1,13 @@
 # Welcome!
 
-[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-and-square&logo=GitHub)](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c)
-[![Twitter](https://img.shields.io/badge/-Twitter-292d3e?style=flat-and-square&logo=Twitter)](https://twitter.com/_Hunter_T_)
+[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://randomserver.xyz/project-tracker.html)
+[![Twitter](https://img.shields.io/badge/-Twitter-292d3e?style=flat-square&logo=Twitter)](https://twitter.com/_Hunter_T_)
 
 <!--![Profile views](https:/ /komarev.com/ghpvc/?username=StrangeRanger)-->
 
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
-- 🔭 I’m currently working on or maintaining all of the projects listed under [Continuously Work On/Maintain](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c#continuously-work-onmaintain) and [Currently Working On](https://gist.github.com/StrangeRanger/b78b76f9d8821761c725f1779f70c39c#currently-working-on).
+- 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://randomserver.xyz/project-tracker.html) and [Active](https://randomserver.xyz/project-tracker.html) badge on my project tracker.
 - 🌱 I’m currently learning as much as I can, whenever I can.
 - 📫 How to reach me strangeranger01@randomserver.xyz
 
