@@ -24,11 +24,14 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Vim-292d3e?style=for-the-badge&amp;logo=Vim" alt="Vim">
 <img src="https://img.shields.io/badge/-JetBrains-292d3e?style=for-the-badge&amp;logo=JetBrains" alt="JetBrains">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-292d3e?style=for-the-badge&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/-Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
 <img src="https://img.shields.io/badge/-macOS-292d3e?style=for-the-badge&amp;logo=macOS" alt="macOS">
 <img src="https://img.shields.io/badge/-Ansible-292d3e?style=for-the-badge&amp;logo=Ansible" alt="Ansible">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
+<img src="https://img.shields.io/badge/-Cloudflare-292d3e?style=for-the-badge&amp;logo=Cloudflare" alt="Cloudflare">
 <img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
+<img src="https://img.shields.io/badge/-Matomo-292d3e?style=for-the-badge&amp;logo=Matomo" alt="Matomo">
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
 <img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
 <br>
