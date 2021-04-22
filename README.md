@@ -9,7 +9,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 - 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://randomserver.xyz/project-tracker.html) and [Active](https://randomserver.xyz/project-tracker.html) badge on my project tracker.
 - 🌱 I’m currently learning as much as I can, whenever I can.
-- 📫 How to reach me strangeranger01@randomserver.xyz
+- 📫 How to reach me hunter.t@randomserver.xyz
 
 <br>
 
