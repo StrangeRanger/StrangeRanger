@@ -15,7 +15,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 ### Languages, Techonologies, and Tools I Use
 
-<img align="right" src="https://github-readme-stats.strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight&exclude_repo=EWU-CSCD,customized-unix-terminal" alt="Hunter's Github Stats" />
+<img align="right" src="https://github-readme-stats-strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight&langs_count=8&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
@@ -35,14 +35,17 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
 <img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
 <br>
-<br>
+<!--<br>-->
 
 <details>
   <summary>Note on "Most Used Languages"</summary>
-  <p>Below is a list of all the repositories that are excluded (and therefore not taken into account) from the "Most Used Language" graph:</p>
+  <p>Below is a list of all the repositories that are excluded (and therefore not taken into account) from the "Most Used Language" visual:</p>
   <ul>
     <li>
       <a href="https://github.com/StrangeRanger/EWU-CSCD">https://github.com/StrangeRanger/EWU-CSCD</a>
+    </li>
+    <li>
+      <a href="https://github.com/StrangeRanger/github-readme-stats">https://github.com/StrangeRanger/github-readme-stats</a>
     </li>
     <li>
       <a href="https://github.com/StrangeRanger/customized-unix-terminal">https://github.com/StrangeRanger/customized-unix-terminal</a>
