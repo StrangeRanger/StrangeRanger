@@ -15,7 +15,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 ### Languages, Techonologies, and Tools I Use
 
-<img align="right" src="https://github-readme-stats-strangeranger.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight&langs_count=8&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats" alt="Hunter's Github Stats" />
+<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight&langs_count=8&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
@@ -56,7 +56,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <hr>
 
 <a href="https://github.com/StrangeRanger">
-<img align="center" float="right" width="49%" src="https://github-readme-stats.strangeranger.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true" alt="Hunter's Github Stats" />
+<img align="center" float="right" width="49%" src="https://github-readme-stats-puce-eta.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true" alt="Hunter's Github Stats" />
 </a>
 <a href="https://github.com/StrangeRanger">
 <image align="center" width="49%" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
@@ -76,14 +76,14 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 ## Notable Repos/Projects
 
 <a href="https://github.com/StrangeRanger/linux-security-scripts">
-  <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=material-palenight" alt="inspector" />
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=material-palenight" alt="inspector" />
 </a>
 <a href="https://github.com/StrangeRanger/macos-security-scripts">
-  <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=material-palenight" alt="inspector" />
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=material-palenight" alt="inspector" />
 </a>
-<a href="https://github.com/StrangeRanger/inspector">
-  <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=material-palenight" alt="inspector" />
+<a href="https://github.com/StrangeRanger/mass-git">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
 </a>
 <a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
-  <image align="center" src="https://github-readme-stats.strangeranger.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
 </a>
