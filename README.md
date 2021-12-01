@@ -32,6 +32,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <img src="https://img.shields.io/badge/-Cloudflare-292d3e?style=for-the-badge&amp;logo=Cloudflare" alt="Cloudflare">
 <img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
 <img src="https://img.shields.io/badge/-Matomo-292d3e?style=for-the-badge&amp;logo=Matomo" alt="Matomo">
+<img src="https://img.shields.io/badge/-Wiki.js-292d3e?style=for-the-badge&amp;logo=Wiki.js" alt="Wiki.js">
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
 <img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
 <br>
