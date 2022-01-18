@@ -1,7 +1,6 @@
 # Welcome!
 
 [![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://randomserver.xyz/project-tracker.html)
-[![Twitter](https://img.shields.io/badge/-Twitter-292d3e?style=flat-square&logo=Twitter)](https://twitter.com/_Hunter_T_)
 
 <!--![Profile views](https:/ /komarev.com/ghpvc/?username=StrangeRanger)-->
 
