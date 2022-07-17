@@ -81,9 +81,15 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <a href="https://github.com/StrangeRanger/macos-security-scripts">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=material-palenight" alt="inspector" />
 </a>
-<a href="https://github.com/StrangeRanger/mass-git">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
+<a href="https://github.com/StrangeRanger/Mewdeko-BashScript">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=material-palenight" alt="Mewdeko BashScript" />
 </a>
 <a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
   <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
+</a>
+<a href="https://github.com/StrangeRanger/customized-unix-terminal">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=material-palenight" alt="customized-unix-terminal" />
+</a>
+<a href="https://github.com/StrangeRanger/mass-git">
+  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
 </a>
