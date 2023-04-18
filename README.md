@@ -20,6 +20,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
 <img src="https://img.shields.io/badge/-.NET-292d3e?style=for-the-badge&amp;logo=.NET" alt=".NET">
 <img src="https://img.shields.io/badge/-PHP-292d3e?style=for-the-badge&amp;logo=PHP" alt="PHP">
+<img src="https://img.shields.io/badge/-TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
 <img src="https://img.shields.io/badge/-JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
