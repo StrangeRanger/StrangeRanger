@@ -57,14 +57,12 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 </details>
   
 <br>
-
 <hr>
-
 <br>
 
 <div align="center">
   <a href="https://github.com/StrangeRanger">
-    <img src="https://github-profile-trophy.vercel.app/?username=StrangeRanger&column=8&theme=nord" >
+    <img src="https://github-profile-trophy.vercel.app/?username=StrangeRanger&column=4&theme=nord" >
   </a>
 </div>
 
