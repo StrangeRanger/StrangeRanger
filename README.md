@@ -14,7 +14,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 ### Languages, Techonologies, and Tools I Use
 
-<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=material-palenight&langs_count=8&include_forks=true&exclude_repo=EWU-CSCD,github-readme-stats,EWU-CSCD371-2023-Winter" alt="Hunter's Github Stats" />
+<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&include_forks=true&exclude_repo=EWU-CSCD,github-readme-stats,EWU-CSCD371-2023-Winter" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
@@ -37,8 +37,8 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 <img src="https://img.shields.io/badge/-Matomo-292d3e?style=for-the-badge&amp;logo=Matomo" alt="Matomo">
 <img src="https://img.shields.io/badge/-Wiki.js-292d3e?style=for-the-badge&amp;logo=Wiki.js" alt="Wiki.js">
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
+
 <br>
-<!--<br>-->
 
 <details>
   <summary>Note on "Most Used Languages"</summary>
@@ -55,44 +55,57 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
     </li>
   </ul>
 </details>
+  
+<br>
 
 <hr>
 
-<a href="https://github.com/StrangeRanger">
-<img align="center" float="right" width="49%" src="https://github-readme-stats-puce-eta.vercel.app/api?username=StrangeRanger&show_icons=true&theme=material-palenight&count_private=true" alt="Hunter's Github Stats" />
-</a>
-<a href="https://github.com/StrangeRanger">
-<image align="center" width="49%" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=material-palenight" alt="Hunter's Github Streak Stats" />
-</a>
 <br>
 
-
+<div align="center">
+  <a href="https://github.com/StrangeRanger">
+    <img src="https://github-profile-trophy.vercel.app/?username=StrangeRanger&column=8&theme=nord" >
+  </a>
+</div>
 
 <br>
-<details>
-  <summary>Github Activity Chart</summary>
-<image align="center" src="https://activity-graph.herokuapp.com/graph?username=StrangeRanger&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Hunter's Github Activity Chart" />
-</details>
 
+<div align="center">
+  <a href="https://github.com/StrangeRanger">
+    <img float="left" src="https://github-readme-stats-puce-eta.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+  </a>
+  <a href="https://github.com/StrangeRanger">
+    <image float="right" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
+  </a>
+</div>
 
+<br>
 
 ## Notable Repos/Projects
 
-<a href="https://github.com/StrangeRanger/linux-security-scripts">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=material-palenight" alt="inspector" />
-</a>
-<a href="https://github.com/StrangeRanger/macos-security-scripts">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=material-palenight" alt="inspector" />
-</a>
-<a href="https://github.com/StrangeRanger/Mewdeko-BashScript">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=material-palenight" alt="Mewdeko BashScript" />
-</a>
-<a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=material-palenight" alt="NadekoBot BashScript" />
-</a>
-<a href="https://github.com/StrangeRanger/customized-unix-terminal">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=material-palenight" alt="customized-unix-terminal" />
-</a>
-<a href="https://github.com/StrangeRanger/mass-git">
-  <image align="center" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=material-palenight" alt="mass-git" />
-</a>
+<div align="center">
+  <a href="https://github.com/StrangeRanger/linux-security-scripts">
+    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord" alt="inspector" />
+  </a>
+  <a href="https://github.com/StrangeRanger/macos-security-scripts">
+    <image float="right"  src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord" alt="inspector" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/StrangeRanger/Mewdeko-BashScript">
+    <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=nord" alt="Mewdeko BashScript" />
+  </a>
+  <a href="https://github.com/StrangeRanger/NadekoBot-BashScript">
+    <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord" alt="NadekoBot BashScript" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/StrangeRanger/customized-unix-terminal">
+    <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=nord" alt="customized-unix-terminal" />
+  </a>
+  <a href="https://github.com/StrangeRanger/mass-git">
+    <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord" alt="mass-git" />
+  </a>
+</div>
