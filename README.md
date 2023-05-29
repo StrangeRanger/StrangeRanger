@@ -70,10 +70,10 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 <div align="center">
   <a href="https://github.com/StrangeRanger">
-    <img float="left" src="https://github-readme-stats-puce-eta.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+    <img float="left" width="49%" src="https://github-readme-stats-puce-eta.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
   </a>
   <a href="https://github.com/StrangeRanger">
-    <image float="right" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
+    <image float="right" width="49%" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
   </a>
 </div>
 
