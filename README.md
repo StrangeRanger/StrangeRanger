@@ -2,8 +2,6 @@
 
 [![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://randomserver.xyz/project-tracker.html)
 
-<!--![Profile views](https:/ /komarev.com/ghpvc/?username=StrangeRanger)-->
-
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
 - 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://randomserver.xyz/project-tracker.html) and [Active](https://randomserver.xyz/project-tracker.html) badge on my project tracker.
@@ -12,7 +10,7 @@ Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a studen
 
 <br>
 
-### Languages, Techonologies, and Tools I Use
+### Languages, Technologies, and Tools I Use
 
 <img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&include_forks=true&exclude_repo=EWU-CSCD,github-readme-stats,EWU-CSCD371-2023-Winter" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
