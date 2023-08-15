@@ -1,6 +1,6 @@
 # Welcome!
 
-[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://randomserver.xyz/project-tracker.html)
+[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://wiki.hthompson.dev/en/project-tracker)
 
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
