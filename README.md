@@ -4,9 +4,9 @@
 
 Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
 
-- 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://randomserver.xyz/project-tracker.html) and [Active](https://randomserver.xyz/project-tracker.html) badge on my project tracker.
+- 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://wiki.hthompson.dev/en/project-tracker) and [Active](https://wiki.hthompson.dev/en/project-tracker) badge on my project tracker.
 - 🌱 I’m currently learning as much as I can, whenever I can.
-- 📫 How to reach me hunter@randomserver.xyz
+- 📫 How to reach me hunter@hthompson.dev
 
 <br>
 
