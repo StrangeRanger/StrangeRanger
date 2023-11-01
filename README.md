@@ -2,9 +2,9 @@
 
 [![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://wiki.hthompson.dev/en/project-tracker)
 
-Hello there, I'm Hunter T. and I welcome you to my repo. I am currently a student at Eastern Washinton University, majoring in Computer Science with a focus on Cyber Security and minoring in Communication. I am passionate about anything computer related, especially when it comes to software security.
+Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer Science student with a Cyber Security minor at Eastern Washington University. I am passionate about all things related to computers, particularly software security.
 
-- 🔭 I’m currently working on or maintaining all of the projects with the [Continuous](https://wiki.hthompson.dev/en/project-tracker) and [Active](https://wiki.hthompson.dev/en/project-tracker) badge on my project tracker.
+- 🔭 I’m currently working on or maintaining projects that can be found on my [Project Tracker](https://wiki.hthompson.dev/en/project-tracker).
 - 🌱 I’m currently learning as much as I can, whenever I can.
 - 📫 How to reach me hunter@hthompson.dev
 
