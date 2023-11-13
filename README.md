@@ -81,14 +81,32 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 
 ## Notable Repos/Projects
 
+### Websites
+
 <div align="center">
-  <a href="https://github.com/StrangeRanger/linux-security-scripts">
-    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord" alt="inspector" />
+  <a href="https://github.com/StrangeRanger/HThompson">
+    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord" alt="HThompson" />
   </a>
-  <a href="https://github.com/StrangeRanger/macos-security-scripts">
-    <image float="right"  src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord" alt="inspector" />
+  <a href="https://github.com/StrangeRanger/Web-Note-App">
+    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord" alt="Web-Note-App" />
   </a>
 </div>
+
+### Security Related
+
+<div align="center">
+  <a href="https://github.com/StrangeRanger/linux-security-scripts">
+    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord" alt="linux-security-scripts" />
+  </a>
+  <a href="https://github.com/StrangeRanger/macos-security-scripts">
+    <image float="right" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord" alt="macos-security-scripts" />
+  </a>
+  <a href="https://github.com/StrangeRanger/inspector">
+    <image float="left" src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord" alt="inspector" />
+  </a>
+</div>
+
+### Discord Bot Installers/Managers
 
 <div align="center">
   <a href="https://github.com/StrangeRanger/Mewdeko-BashScript">
@@ -99,10 +117,9 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
   </a>
 </div>
 
+### Other
+
 <div align="center">
-  <a href="https://github.com/StrangeRanger/customized-unix-terminal">
-    <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=nord" alt="customized-unix-terminal" />
-  </a>
   <a href="https://github.com/StrangeRanger/mass-git">
     <image src="https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord" alt="mass-git" />
   </a>
