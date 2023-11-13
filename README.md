@@ -12,7 +12,7 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 
 ### Languages, Technologies, and Tools I Use
 
-<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=EWU-CSCD,github-readme-stats,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring" alt="Hunter's Github Stats" />
+<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=StrangeRanger,github-readme-stats,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
@@ -43,17 +43,24 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
   <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Language" visual:</p>
   <ul>
     <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD">https://github.com/StrangeRanger/EWU-CSCD</a>
+      <a href="https://github.com/StrangeRanger/StrangeRanger">StrangeRanger</a>
     </li>
     <li>
-      <a href="https://github.com/StrangeRanger/github-readme-stats">https://github.com/StrangeRanger/github-readme-stats</a>
+      <a href="https://github.com/StrangeRanger/github-readme-stats">github-readme-stats</a>
     </li>
     <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter">https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter</a>
+      <a href="https://github.com/StrangeRanger/EWU-CSCD">EWU-CSCD</a>
     </li>
     <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring">https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter</a>
-    </li>  </ul>
+      <a href="https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter">EWU-CSCD371-2023-Winter</a>
+    </li>
+    <li>
+      <a href="https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring">EWU-CSCD379-2023-Spring</a>
+    </li>
+    <li>
+      <a href="https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall">EWU-CSCD396-2023-Fall</a>
+    </li>
+  </ul>
 </details>
   
 <br>
