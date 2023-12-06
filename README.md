@@ -40,27 +40,18 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 
 <details>
   <summary>Note on "Most Used Languages"</summary>
+  <br>
   <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Language" visual:</p>
-  <ul>
-    <li>
-      <a href="https://github.com/StrangeRanger/StrangeRanger">StrangeRanger</a>
-    </li>
-    <li>
-      <a href="https://github.com/StrangeRanger/github-readme-stats">github-readme-stats</a>
-    </li>
-    <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD">EWU-CSCD</a>
-    </li>
-    <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter">EWU-CSCD371-2023-Winter</a>
-    </li>
-    <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring">EWU-CSCD379-2023-Spring</a>
-    </li>
-    <li>
-      <a href="https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall">EWU-CSCD396-2023-Fall</a>
-    </li>
-  </ul>
+
+| Repository | Reason for Exclusion |
+| ---------- | -------------------- |
+| [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger) | Is not a repository for code, rather than my profile done in Markdown. |
+| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats) | A forked repository that I have not, nor do I plan on, contributing to. |
+| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD371 - Winter 2023](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD379 - Spring 2023](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD396 - Fall 2023](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+  
 </details>
   
 <br>
