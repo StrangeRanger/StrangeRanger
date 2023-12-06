@@ -83,6 +83,7 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 
 | Repository | Category |
 | ---------- | -------- |
+| ![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord) | Windows App |
 | ![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord) | Website |
 | ![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord) | Website |
 | ![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord) | Security |
