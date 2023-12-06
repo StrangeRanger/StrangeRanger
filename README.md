@@ -48,9 +48,9 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 | [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger) | Is not a repository for code, rather than my profile done in Markdown. |
 | [Github README Stats](https://github.com/StrangeRanger/github-readme-stats) | A forked repository that I have not, nor do I plan on, contributing to. |
 | [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
-| [EWU CSCD371 - Winter 2023](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
-| [EWU CSCD379 - Spring 2023](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
-| [EWU CSCD396 - Fall 2023](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
   
 </details>
   
