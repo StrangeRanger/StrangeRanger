@@ -83,15 +83,14 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 
 | Repository | Category |
 | ---------- | -------- |
-| ![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord) | Windows App |
-| ![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord) | Website |
-| ![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord) | Website (Not completed) |
-| ![Mass Git](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord) | Other |
-| ![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord) | Security |
-| ![macOS Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord) | Security |
-| ![Inspector](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord) | Security |
-| ![NadekoBot Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord ) | Discord Bot Installer/Manager |
-| ![Mewdeko Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=nord) | Discord Bot Installer/Manager |
-
+| [![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool) | Windows App |
+| [![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
+| [![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord)](https://github.com/StrangeRanger/Web-Note-App) | Website (Not completed) |
+| [![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
+| [![macOS Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
+| [![Inspector](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector) | Security |
+| [![NadekoBot Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
+| [![Mewdeko Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=nord)](https://github.com/StrangeRanger/Mewdeko-BashScript) | Discord Bot Installer/Manager |
+| [![Mass Git](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Other |
 
 </div>
