@@ -85,7 +85,7 @@ Welcome to my GitHub repository! My name is Hunter Thompson and I am a Computer 
 | ---------- | -------- |
 | [![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool) | Windows App |
 | [![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
-| [![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord)](https://github.com/StrangeRanger/Web-Note-App) | Website (Not completed) |
+| [![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord)](https://github.com/StrangeRanger/Web-Note-App) | Website <br/> In a partial working state |
 | [![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
 | [![macOS Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
 | [![Inspector](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector) | Security |
