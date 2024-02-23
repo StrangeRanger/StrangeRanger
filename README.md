@@ -2,7 +2,7 @@
 
 [![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://wiki.hthompson.dev/en/project-tracker)
 
-Welcome to my GitHub repository! My name is Hunter T. and I am a Computer Science student with a Cyber Security minor at Eastern Washington University. I am passionate about all things related to computers, particularly software security.
+Welcome to my GitHub repository! My name is Hunter T., and I am a computer science student with a minor in cybersecurity at Eastern Washington University. I am passionate about all things related to computers, particularly software security.
 
 - 🔭 I’m currently working on or maintaining projects that can be found on my [Project Tracker](https://wiki.hthompson.dev/en/project-tracker).
 - 🌱 I’m currently learning as much as I can, whenever I can.
@@ -82,7 +82,7 @@ Welcome to my GitHub repository! My name is Hunter T. and I am a Computer Scienc
 
 ## Notable Repos/Projects
 
-Below is a list of projects and repositories I've worked on, that I consider to be particularly noteworthy or have had a significant impact on my learning and development. Each project showcases different skills and areas of interest in software development and cyber security.
+Below is a list of projects and repositories I've worked on that I consider particularly noteworthy or have significantly impacted my learning and development. Each project showcases different skills and areas of interest in software development and cyber security.
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Below is a list of projects and repositories I've worked on, that I consider to 
 
 ## Knowledge Sharing & Best Practices
 
-I take pride in sharing knowledge and establishing best practices, whether it's through detailed documentation, configuration guides, or coding style guidelines. Below, you'll find a list of resources I've created to help others learn from my experiences and to promote efficient, maintainable coding practices. These resources range from website setups and terminal configurations to coding standards and tool configurations.
+I take pride in sharing knowledge and establishing best practices, whether it's through detailed documentation, configuration guides, or coding style guidelines. Below is a list of resources I've created to help others learn from my experiences and promote efficient, maintainable coding practices. These resources range from code examples and terminal configurations to coding standards and tool configurations.
 
 **Note**: The resources listed here represent a fraction of my entire knowledge base, specifically focusing on content hosted on GitHub. For a comprehensive exploration of my projects, insights, and a repository of valuable resources, I invite you to visit my [Wiki Page](https://wiki.hthompson.dev/). It's more than a showcase; it's a meticulously curated space for anyone looking to dive deeper into my creative pursuits, find inspiration, or gain practical knowledge from my journey in software development and beyond.
 
@@ -114,7 +114,7 @@ I take pride in sharing knowledge and establishing best practices, whether it's 
 | [![Bash Style Guide](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=bash-style-guide&theme=nord)](https://github.com/StrangeRanger/bash-style-guide)                         | Coding Standards | A style guide for writing safe, predictable, and portable bash scripts (not sh!).                                                 |
 | [![Clang Format (C#)](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=f7f87dd884760f3127adda98d3d4ab14)](https://gist.github.com/StrangeRanger/f7f87dd884760f3127adda98d3d4ab14)                       | Config File      | Clang Format configuration for C#.                                                                                                |
 | [![Bash If Statements](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=81de73f08234380053cd130ebd1da832)](https://gist.github.com/StrangeRanger/81de73f08234380053cd130ebd1da832)                      | Code             | Bash script to demonstrate the behavior of if statements when dealing with different types of variables.                          |
-| [![Spinning Stick](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=12e9b8292dc0d499a4fea42fdda93c03)](https://gist.github.com/StrangeRanger/12e9b8292dc0d499a4fea42fdda93c03)                          | Code             | Two different methods to create a spinning stick in the terminal, particularly for when you're waiting for a process to complete. |
+| [![Spinning Stick](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=12e9b8292dc0d499a4fea42fdda93c03)](https://gist.github.com/StrangeRanger/12e9b8292dc0d499a4fea42fdda93c03)                          | Code             | Two different methods to create a spinning stick animation in the terminal, mainly when waiting for a process to complete.        |
 
 <!-- TODO: Include https://gist.github.com/StrangeRanger/b8153017fe8195a2d038890e28c9aa63 at some point after updating the gist... -->
 
