@@ -12,7 +12,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 
 ### Languages, Technologies, and Tools I Use
 
-<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=StrangeRanger,github-readme-stats,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall" alt="Hunter's Github Stats" />
+<img align="right" src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=StrangeRanger,github-readme-stats,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,EWU-CSCD371-2024-Winter" alt="Hunter's Github Stats" />
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-.NET-292d3e?style=for-the-badge&amp;logo=.NET" alt=".NET">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
@@ -52,6 +52,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 | [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
 | [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
 | [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall)     | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
+| [EWU CSCD 371 2024 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2024-Winter) | As none of the code is for a project or final, rather a class assignments, I do not believe they should be included. |
 
 <!-- TODO: Include new EWU 371 class repo, in above table... -->
 
@@ -91,12 +92,10 @@ Below is a list of projects and repositories I've worked on that I consider part
 | [![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                              |
 | [![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                                  |
 | [![NadekoBot Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager            |
-| [![Mewdeko Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Mewdeko-BashScript&theme=nord)](https://github.com/StrangeRanger/Mewdeko-BashScript)           | Discord Bot Installer/Manager            |
 | [![Inspector](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector)                                        | Security                                 |
 | [![Mass Git](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                                    |
 | [![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                                 |
 | [![macOS Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security                                 |
-| [![Web Note App](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=Web-Note-App&theme=nord)](https://github.com/StrangeRanger/Web-Note-App)                               | Website <br/> In a partial working state |
 
 </div>
 
