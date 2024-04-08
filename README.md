@@ -101,6 +101,9 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 ## Knowledge Sharing & Best Practices
 
+*To be updated in the future...*
+
+<!--
 I take pride in sharing knowledge and establishing best practices, whether it's through detailed documentation, configuration guides, or coding style guidelines. Below is a list of resources I've created to help others learn from my experiences and promote efficient, maintainable coding practices. These resources range from code examples and terminal configurations to coding standards and tool configurations.
 
 **Note**: The resources listed here represent a fraction of my entire knowledge base, specifically focusing on content hosted on GitHub. For a comprehensive exploration of my projects, insights, and a repository of valuable resources, I invite you to visit my [Wiki Page](https://wiki.hthompson.dev/). It's more than a showcase; it's a meticulously curated space for anyone looking to dive deeper into my creative pursuits, find inspiration, or gain practical knowledge from my journey in software development and beyond.
@@ -114,9 +117,10 @@ I take pride in sharing knowledge and establishing best practices, whether it's 
 | [![Clang Format (C#)](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=f7f87dd884760f3127adda98d3d4ab14)](https://gist.github.com/StrangeRanger/f7f87dd884760f3127adda98d3d4ab14)                       | Config File      | Clang Format configuration for C#.                                                                                                |
 | [![Bash If Statements](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=81de73f08234380053cd130ebd1da832)](https://gist.github.com/StrangeRanger/81de73f08234380053cd130ebd1da832)                      | Code             | Bash script to demonstrate the behavior of if statements when dealing with different types of variables.                          |
 | [![Spinning Stick](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=12e9b8292dc0d499a4fea42fdda93c03)](https://gist.github.com/StrangeRanger/12e9b8292dc0d499a4fea42fdda93c03)                          | Code             | Two different methods to create a spinning stick animation in the terminal, mainly when waiting for a process to complete.        |
-
+-->
 <!-- TODO: Include https://gist.github.com/StrangeRanger/b8153017fe8195a2d038890e28c9aa63 at some point after updating the gist... -->
-
+<!--
 </div>
 
 These resources reflect my commitment to quality, efficiency, and collaboration in software development. I hope they serve as valuable tools for other developers looking to refine their skills and workflows.
+-->
