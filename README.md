@@ -17,22 +17,19 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 <img src="https://img.shields.io/badge/-.NET-292d3e?style=for-the-badge&amp;logo=.NET" alt=".NET">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=OpenJDK" alt="Java">
-  <img src="https://img.shields.io/badge/-Vue.js-292d3e?style=for-the-badge&amp;logo=Vue.js" alt="Vue.js">
+<img src="https://img.shields.io/badge/-Vue.js-292d3e?style=for-the-badge&amp;logo=Vue.js" alt="Vue.js">
 <img src="https://img.shields.io/badge/-TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
 <img src="https://img.shields.io/badge/-JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
-<!--<img src="https://img.shields.io/badge/-PHP-292d3e?style=for-the-badge&amp;logo=PHP" alt="PHP">-->
 <img src="https://img.shields.io/badge/-Vim-292d3e?style=for-the-badge&amp;logo=Vim" alt="Vim">
 <img src="https://img.shields.io/badge/-JetBrains-292d3e?style=for-the-badge&amp;logo=JetBrains" alt="JetBrains">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-292d3e?style=for-the-badge&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/-Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
 <img src="https://img.shields.io/badge/-macOS-292d3e?style=for-the-badge&amp;logo=macOS" alt="macOS">
 <img src="https://img.shields.io/badge/-Homebrew-292d3e?style=for-the-badge&amp;logo=Homebrew" alt="Homebrew">
-<!--<img src="https://img.shields.io/badge/-Ansible-292d3e?style=for-the-badge&amp;logo=Ansible" alt="Ansible">-->
 <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
 <img src="https://img.shields.io/badge/-Cloudflare-292d3e?style=for-the-badge&amp;logo=Cloudflare" alt="Cloudflare">
-<img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
 <img src="https://img.shields.io/badge/-Matomo-292d3e?style=for-the-badge&amp;logo=Matomo" alt="Matomo">
 <img src="https://img.shields.io/badge/-Wiki.js-292d3e?style=for-the-badge&amp;logo=Wiki.js" alt="Wiki.js">
 <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
