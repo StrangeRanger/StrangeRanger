@@ -15,7 +15,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,StrangeRanger"
+        src="https://github-readme-stats-puce-eta.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,StrangeRanger,rss-bridge"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -124,6 +124,10 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
   <summary>Note About "Most Used Languages"</summary>
   <br>
   <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Languages" visual:</p>
+
+  <!-- TODO: Add the following repositories:
+      - rss-bridge
+  -->
 
 | Repository                                                                           | Reason for Exclusion                                                                                                            |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
