@@ -158,7 +158,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
     <img float="left" width="49%" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
   </a>
   <a href="https://github.com/StrangeRanger">
-    <image float="right" width="49%" border="5px solid #555" src="https://github-readme-streak-stats.herokuapp.com/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
+    <image float="right" width="49%" border="5px solid #555" src="https://github-readme-streak-stats-six-mu.vercel.app/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
   </a>
 </div>
 
