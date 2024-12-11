@@ -15,7 +15,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,StrangeRanger"
+        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,github-readme-streak-stats,StrangeRanger"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -137,6 +137,7 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 | [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or school final, rather a class assignments, I do not believe they should be included.     |
 | [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall)     | As none of the code is for a project or school final, rather a class assignments, I do not believe they should be included.     |
 | [Github README Stats](https://github.com/StrangeRanger/github-readme-stats)          | A forked repository that I have not, nor do I plan on, contributing to.                                                         |
+| Github Readme Streak Stats                                                           | A cloned repository that I have not, nor do I plan on, contributing to. As a note, this repository is privated.                 |
 | [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger)                      | Is not a repository for code, rather, a my profile done in Markdown. More specifically, this file.                              |
 
 </details>
@@ -155,10 +156,10 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 
 <div align="center">
   <a href="https://github.com/StrangeRanger">
-    <img float="left" width="49%" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+    <img float="left" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
   </a>
   <a href="https://github.com/StrangeRanger">
-    <image float="right" width="49%" border="5px solid #555" src="https://streak-stats.demolab.com/?user=StrangeRanger&theme=nord" alt="Hunter's Github Streak Stats" />
+    <image float="right" src="https://github-readme-streak-stats-omega-bay.vercel.app/?user=StrangeRanger&theme=nord&border_radius=5" alt="Hunter's Github Streak Stats" />
   </a>
 </div>
 
@@ -172,13 +173,13 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 | Repository                                                                                                                                                                                                   | Category                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| [![FAFB PowerShell Tool](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
-| [![HThompson](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
-| [![NadekoBot Bash Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
-| [![Inspector](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector)                                        | Security                      |
-| [![Mass Git](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                         |
-| [![Linux Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                      |
-| [![macOS Security Scripts](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security                      |
+| [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
+| [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
+| [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
+| [![Inspector](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector)                                        | Security                      |
+| [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                         |
+| [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                      |
+| [![macOS Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security                      |
 
 </div>
 
