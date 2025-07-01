@@ -172,8 +172,8 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 <div align="center">
 
-| Repository                                                                                                                                                                                                   | Category                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| Repository                                                                                                                                                                                                        | Category                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
 | [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
 | [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
@@ -209,3 +209,9 @@ I take pride in sharing knowledge and establishing best practices, whether it's 
 
 These resources reflect my commitment to quality, efficiency, and collaboration in software development. I hope they serve as valuable tools for other developers looking to refine their skills and workflows.
 -->
+
+## Referals
+
+| Platform     | Referal                                                                                                                                                                                                                                 | Description                                                                                           | Referal Benifits                                                                                                      |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| DigitalOcean | [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=804853881045&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | A cloud hosting provider that offers cloud computing services and Infrastructure as a Service (IaaS). | Those who sign up using my referral link will receive $200 in credits for 60 days, and I will receive $25 in credits. |
