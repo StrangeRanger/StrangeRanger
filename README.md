@@ -2,7 +2,7 @@
 
 [![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://wiki.hthompson.dev/en/project-tracker)
 
-Welcome to my GitHub repository! My name is Hunter T., and I am a computer science major with a minor in cybersecurity from Eastern Washington University. I am passionate about all things related to computers, particularly software security.
+My name is Hunter T., and I am a computer science major with a minor in cybersecurity from Eastern Washington University. I am passionate about all things related to computers, particularly software security.
 
 - 🔭 I’m currently working on or maintaining projects that can be found on my [Project Tracker](https://wiki.hthompson.dev/en/project-tracker).
 - 🌱 I’m currently learning as much as I can, whenever I can.
@@ -25,105 +25,81 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 --->
 
 <p>
-<!-- Language: Shell -->
-<a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=shell&sort=" target="_blank">
-    <img
-        src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash"
-        alt="Bash Script"
-    >
-</a>
-<!-- Language: C# -->
-<a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=c%23&sort=" target="_blank">
-    <img
-        src="https://img.shields.io/badge/.NET-292d3e?style=for-the-badge&amp;logo=.NET"
-        alt=".NET"
-    >
-</a>
-<!-- Language: Python -->
-<a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=python&sort=" target="_blank">
-    <img src="https://img.shields.io/badge/Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
-</a>
-<!-- Language: Java -->
-<a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=java&sort=" target="_blank">
-    <img src="https://img.shields.io/badge/Java-292d3e?style=for-the-badge&amp;logo=OpenJDK" alt="Java">
-</a>
-<!-- Language: VueJS -->
-<a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=vue&sort=" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-292d3e?style=for-the-badge&amp;logo=Vue.js" alt="Vue.js">
-</a>
-<!-- Language: TypeScript -->
-<img src="https://img.shields.io/badge/TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
-<!-- Language: Javascript -->
-<img src="https://img.shields.io/badge/JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
-<!-- Language: HTML -->
-<img src="https://img.shields.io/badge/HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
-<!-- Language: CSS -->
-<img src="https://img.shields.io/badge/CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
-<!--
----- SECTION: Tools
---->
-<!-- Tool: NeoVim -->
-<a href="https://github.com/neovim/neovim" target="_blank">
-    <img src="https://img.shields.io/badge/NeoVim-292d3e?style=for-the-badge&amp;logo=NeoVim" alt="NeoVim">
-</a>
-<!-- Tool: JetBrains -->
-<a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JetBrains-292d3e?style=for-the-badge&amp;logo=JetBrains" alt="JetBrains">
-</a>
-<!-- Tool: Visual Studio Code -->
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-292d3e?style=for-the-badge&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code">
-</a>
-<!--
----- SECTION: Operating Systems
---->
-<!-- OS: Linux -->
-<a href="https://www.kernel.org/doc/html/latest" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
-</a>
-<!-- Linux Distribution: EndeavourOS -->
-<a href="https://endeavouros.com/" target="_blank">
-    <img src="https://img.shields.io/badge/EndeavourOS-292d3e?style=for-the-badge&amp;logo=endeavouros" alt="Linux">
-</a>
-<!-- OS: macOS -->
-<a href="https://www.apple.com/macos" target="_blank">
-    <img src="https://img.shields.io/badge/macOS-292d3e?style=for-the-badge&amp;logo=apple" alt="macOS">
-</a>
-<!--
----- SECTION: Other
---->
-<!-- Package Manager: Homebrew -->
-<a href="https://github.com/Homebrew/brew" target="_blank">
-    <img src="https://img.shields.io/badge/-Homebrew-292d3e?style=for-the-badge&amp;logo=Homebrew" alt="Homebrew">
-</a>
-<!-- Cloud Hosting Platform: DigitalOcean -->
-<a href="https://m.do.co/c/804853881045" target="_blank">
-    <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
-</a>
-<!-- Cloud Hosting Platform: Cloudflare -->
-<a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Cloudflare-292d3e?style=for-the-badge&amp;logo=Cloudflare" alt="Cloudflare">
-</a>
-<!-- Analytics Platform: Matomo -->
-<a href="https://github.com/matomo-org/matomo" target="_blank">
-    <img src="https://img.shields.io/badge/-Matomo-292d3e?style=for-the-badge&amp;logo=Matomo" alt="Matomo">
-</a>
-<!-- Wiki Platform: Wiki.js -->
-<a href="https://github.com/requarks/wiki" target="_blank">
-    <img src="https://img.shields.io/badge/-Wiki.js-292d3e?style=for-the-badge&amp;logo=Wiki.js" alt="Wiki.js">
-</a>
-<!-- Browser: Brave -->
-<a href="https://github.com/brave/brave-browser" target="_blank">
-    <img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
-</a>
+    <!-- Language: Shell -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=shell&sort=" target="_blank">
+        <img
+            src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash"
+            alt="Bash Script"
+        >
+    </a>
+    <!-- Language: C# -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=c%23&sort=" target="_blank">
+        <img
+            src="https://img.shields.io/badge/.NET-292d3e?style=for-the-badge&amp;logo=.NET"
+            alt=".NET"
+        >
+    </a>
+    <!-- Language: Python -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=python&sort=" target="_blank">
+        <img src="https://img.shields.io/badge/Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
+    </a>
+    <!-- Language: Java -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=java&sort=" target="_blank">
+        <img src="https://img.shields.io/badge/Java-292d3e?style=for-the-badge&amp;logo=OpenJDK" alt="Java">
+    </a>
+    <!-- Language: TypeScript -->
+    <img src="https://img.shields.io/badge/TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
+    <!-- Language: Javascript -->
+    <img src="https://img.shields.io/badge/JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
+    <!-- Language: VueJS -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=vue&sort=" target="_blank">
+        <img src="https://img.shields.io/badge/Vue.js-292d3e?style=for-the-badge&amp;logo=Vue.js" alt="Vue.js">
+    </a>
+    <!--
+    ---- SECTION: Tools
+    --->
+    <!-- Tool: NeoVim -->
+    <a href="https://github.com/neovim/neovim" target="_blank">
+        <img src="https://img.shields.io/badge/NeoVim-292d3e?style=for-the-badge&amp;logo=NeoVim" alt="NeoVim">
+    </a>
+    <!-- Tool: JetBrains -->
+    <a href="https://www.jetbrains.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JetBrains-292d3e?style=for-the-badge&amp;logo=JetBrains" alt="JetBrains">
+    </a>
+    <!--
+    ---- SECTION: Operating Systems
+    --->
+    <!-- OS: Linux -->
+    <a href="https://www.kernel.org/doc/html/latest" target="_blank">
+        <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
+    </a>
+    <!-- OS: macOS -->
+    <a href="https://www.apple.com/macos" target="_blank">
+        <img src="https://img.shields.io/badge/macOS-292d3e?style=for-the-badge&amp;logo=apple" alt="macOS">
+    </a>
+    <!--
+    ---- SECTION: Other
+    --->
+    <!-- Package Manager: Homebrew -->
+    <a href="https://github.com/Homebrew/brew" target="_blank">
+        <img src="https://img.shields.io/badge/-Homebrew-292d3e?style=for-the-badge&amp;logo=Homebrew" alt="Homebrew">
+    </a>
+    <!-- Cloud Hosting Platform: DigitalOcean -->
+    <a href="https://m.do.co/c/804853881045" target="_blank">
+        <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
+    </a>
+    <!-- Cloud Hosting Platform: Cloudflare -->
+    <a href="https://www.cloudflare.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Cloudflare-292d3e?style=for-the-badge&amp;logo=Cloudflare" alt="Cloudflare">
+    </a>
 </p>
 
 <br>
 
 <details>
-  <summary>Note About "Most Used Languages"</summary>
-  <br>
-  <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Languages" visual:</p>
+    <summary>Note About "Most Used Languages"</summary>
+    <br>
+    <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Languages" visual:</p>
 
   <!-- TODO: Add the following repositories:
       - n/a
@@ -147,21 +123,15 @@ Welcome to my GitHub repository! My name is Hunter T., and I am a computer scien
 <hr>
 <br>
 
-<div align="center">
-  <a href="https://github.com/StrangeRanger">
-    <img src="https://github-profile-trophy.vercel.app/?username=StrangeRanger&column=4&theme=nord" >
-  </a>
-</div>
-
 <br>
 
 <div align="center">
-  <a href="https://github.com/StrangeRanger">
-    <img float="left" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
-  </a>
-  <a href="https://github.com/StrangeRanger">
-    <image float="right" src="https://github-readme-streak-stats-omega-bay.vercel.app/?user=StrangeRanger&theme=nord&border_radius=5" alt="Hunter's Github Streak Stats" />
-  </a>
+    <a href="https://github.com/StrangeRanger">
+        <img float="left" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+    </a>
+    <a href="https://github.com/StrangeRanger">
+        <image float="right" src="https://github-readme-streak-stats-omega-bay.vercel.app/?user=StrangeRanger&theme=nord&border_radius=5" alt="Hunter's Github Streak Stats" />
+    </a>
 </div>
 
 <br>
@@ -174,13 +144,12 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 | Repository                                                                                                                                                                                                        | Category                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
 | [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
 | [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
-| [![Inspector](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=inspector&theme=nord)](https://github.com/StrangeRanger/inspector)                                        | Security                      |
 | [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                         |
 | [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                      |
 | [![macOS Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security                      |
+| [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
 
 </div>
 
