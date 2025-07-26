@@ -1,12 +1,11 @@
 # Welcome!
 
-[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=flat-square&logo=GitHub)](https://wiki.hthompson.dev/en/project-tracker)
+[![Project Tracker](https://img.shields.io/badge/-Project%20Tracker-292d3e?style=for-the-badge&logo=svgtrace)](https://hthompson.dev/project-tracker)
+[![Notable Projects](https://img.shields.io/badge/-Notable%20Projects-292d3e?style=for-the-badge&logo=GitHub)](#notable-reposprojects)
 
 My name is Hunter T., and I am a computer science major with a minor in cybersecurity from Eastern Washington University. I am passionate about all things related to computers, particularly software security.
 
-- 🔭 I’m currently working on or maintaining projects that can be found on my [Project Tracker](https://wiki.hthompson.dev/en/project-tracker).
-- 🌱 I’m currently learning as much as I can, whenever I can.
-- 📫 How to reach me hunter@hthompson.dev
+- 📫 How to reach me strangeranger@hthompson.dev
 
 <br>
 
