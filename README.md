@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,github-readme-streak-stats,CYBR-410,StrangeRanger"
+        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo="
         alt="Hunter's Github Stats"
     />
 </a>
@@ -42,17 +42,19 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=python&sort=" target="_blank">
         <img src="https://img.shields.io/badge/Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
     </a>
+    <!-- Language: TypeScript -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=typescript&sort=" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
+    </a>
+    <!-- Language: Javascript -->
+    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
+    </a>
+    <!-- Language: React -->
+    <img src="https://img.shields.io/badge/React-292d3e?style=for-the-badge&amp;logo=React" alt="React">
     <!-- Language: Java -->
     <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=java&sort=" target="_blank">
         <img src="https://img.shields.io/badge/Java-292d3e?style=for-the-badge&amp;logo=OpenJDK" alt="Java">
-    </a>
-    <!-- Language: TypeScript -->
-    <img src="https://img.shields.io/badge/TypeScript-292d3e?style=for-the-badge&amp;logo=TypeScript" alt="TypeScript">
-    <!-- Language: Javascript -->
-    <img src="https://img.shields.io/badge/JavaScript-292d3e?style=for-the-badge&amp;logo=JavaScript" alt="JavaScript">
-    <!-- Language: VueJS -->
-    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=vue&sort=" target="_blank">
-        <img src="https://img.shields.io/badge/Vue.js-292d3e?style=for-the-badge&amp;logo=Vue.js" alt="Vue.js">
     </a>
     <!--
     ---- SECTION: Tools
@@ -68,13 +70,13 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     <!--
     ---- SECTION: Operating Systems
     --->
-    <!-- OS: Linux -->
-    <a href="https://www.kernel.org/doc/html/latest" target="_blank">
-        <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
-    </a>
     <!-- OS: macOS -->
     <a href="https://www.apple.com/macos" target="_blank">
         <img src="https://img.shields.io/badge/macOS-292d3e?style=for-the-badge&amp;logo=apple" alt="macOS">
+    </a>
+    <!-- OS: Linux -->
+    <a href="https://www.kernel.org/doc/html/latest" target="_blank">
+        <img src="https://img.shields.io/badge/Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
     </a>
     <!--
     ---- SECTION: Other
