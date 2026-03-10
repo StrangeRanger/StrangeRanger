@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo="
+        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,identify-root-user-logins,StrangeRanger"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -102,21 +102,20 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     <br>
     <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Languages" visual:</p>
 
-  <!-- TODO: Add the following repositories:
-      - n/a
-  -->
+    <!-- TODO: Add the following repositories:
+        - n/a
+    -->
 
-| Repository                                                                           | Reason for Exclusion                                                                                                          |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups)                      | ~99.9% of the code, such as the docker-based files, are not written by me. Therefore, I do not believe it should be included. |
-| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD)                                | As none of the code is for a project or school final, rather class assignments, I do not believe it should be included.       |
-| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | As none of the code is for a project or school final, rather a class assignment, I do not believe it should be included.      |
-| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | As none of the code is for a project or school final, rather a class assignment, I do not believe it should be included.      |
-| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall)     | As none of the code is for a project or school final, rather a class assignment, I do not believe it should be included.      |
-| EWU CYBR 410                                                                         | As none of the code is for a prjoect or school final, rather class assignments, I do not believe it should be included.       |
-| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats)          | A forked repository that I have not, nor do I plan on, contributing to.                                                       |
-| Github Readme Streak Stats                                                           | A cloned repository that I have not, nor do I plan on, contributing to.                                                       |
-| [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger)                      | Is not a repository for code, rather, a my profile done in Markdown. More specifically, this file.                            |
+| Repository                                                                              | Reason for Exclusion                                                                                                      |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups)                         | The vast majority of the code (e.g., Docker-based files) was not written by me.                                           |
+| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD)                                   | Contains only class assignments, not independent projects or course finals.                                               |
+| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter)    | Contains only a class assignment, not an independent project or course final.                                             |
+| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring)    | Contains only a class assignment, not an independent project or course final.                                             |
+| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall)        | Contains only a class assignment, not an independent project or course final.                                             |
+| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats)             | A fork I have not contributed to and do not plan to.                                                                      |
+| [Identify Root User Logins](https://github.com/StrangeRanger/identify-root-user-logins) | Code has been migrated to another repository; including it here would duplicate language usage stats.                     |
+| [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger)                         | Not a code repository; it is a profile README written in Markdown.                                                        |
 
 </details>
 
