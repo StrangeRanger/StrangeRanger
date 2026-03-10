@@ -52,10 +52,6 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     </a>
     <!-- Language: React -->
     <img src="https://img.shields.io/badge/React-292d3e?style=for-the-badge&amp;logo=React" alt="React">
-    <!-- Language: Java -->
-    <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=java&sort=" target="_blank">
-        <img src="https://img.shields.io/badge/Java-292d3e?style=for-the-badge&amp;logo=OpenJDK" alt="Java">
-    </a>
     <!--
     ---- SECTION: Tools
     --->
