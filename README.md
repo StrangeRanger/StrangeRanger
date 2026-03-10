@@ -128,9 +128,6 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     <a href="https://github.com/StrangeRanger">
         <img float="left" src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
     </a>
-    <a href="https://github.com/StrangeRanger">
-        <image float="right" src="https://github-readme-streak-stats-seven-blue.vercel.app/?user=StrangeRanger&theme=nord&border_radius=5" alt="Hunter's Github Streak Stats" />
-    </a>
 </div>
 
 <br>
