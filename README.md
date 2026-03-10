@@ -141,6 +141,7 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 | Repository                                                                                                                                                                                                        | Category                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
 | [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
 | [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                         |
 | [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                      |
