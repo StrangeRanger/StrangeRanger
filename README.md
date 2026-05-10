@@ -98,20 +98,16 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
     <br>
     <p>Below is a list of all the repositories that are excluded (and therefore whose languages are not considered) from the "Most Used Languages" visual:</p>
 
-    <!-- TODO: Add the following repositories:
-        - n/a
-    -->
-
-| Repository                                                                              | Reason for Exclusion                                                                                                      |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups)                         | The vast majority of the code (e.g., Docker-based files) was not written by me.                                           |
-| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD)                                   | Contains only class assignments, not independent projects or course finals.                                               |
-| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter)    | Contains only a class assignment, not an independent project or course final.                                             |
-| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring)    | Contains only a class assignment, not an independent project or course final.                                             |
-| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall)        | Contains only a class assignment, not an independent project or course final.                                             |
-| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats)             | A fork I have not contributed to and do not plan to.                                                                      |
-| [Identify Root User Logins](https://github.com/StrangeRanger/identify-root-user-logins) | Code has been migrated to another repository; including it here would duplicate language usage stats.                     |
-| [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger)                         | Not a code repository; it is a profile README written in Markdown.                                                        |
+| Repository | Reason for Exclusion |
+| ---------- | -------------------- |
+| [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups) | The vast majority of the code (e.g., Docker-based files) was not written by me. |
+| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD) | Contains only class assignments, not independent projects or course finals. |
+| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | Contains only a class assignment, not an independent project or course final. |
+| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | Contains only a class assignment, not an independent project or course final. |
+| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | Contains only a class assignment, not an independent project or course final. |
+| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats) | A fork I have not contributed to and do not plan to. |
+| [Identify Root User Logins](https://github.com/StrangeRanger/identify-root-user-logins) | Code has been migrated to another repository; including it here would duplicate language usage stats. |
+| [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger) | Not a code repository; it is a profile README written in Markdown. |
 
 </details>
 
@@ -135,14 +131,14 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 <div align="center">
 
-| Repository                                                                                                                                                                                                        | Category                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson)                                        | Website                       |
-| [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript)     | Discord Bot Installer/Manager |
-| [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git)                                           | Other                         |
-| [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security                      |
-| [![macOS Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security                      |
-| [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool)       | Windows App                   |
+| Repository | Category |
+| ---------- | -------- |
+| [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
+| [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
+| [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Other |
+| [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
+| [![macOS Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
+| [![FAFB PowerShell Tool](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=FAFB-PowerShell-Tool&theme=nord)](https://github.com/StrangeRanger/FAFB-PowerShell-Tool) | Windows App |
 
 </div>
 
@@ -157,15 +153,17 @@ I take pride in sharing knowledge and establishing best practices, whether it's 
 
 <div align="center">
 
-| Resource                                                                                                                                                                                                           | Type             | Description                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [![Customized Unix Terminal](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=nord)](https://github.com/StrangeRanger/customized-unix-terminal) | Configurations   | A collection of configurations that I use to modify my terminal's style and behavior, both on my Mac and Linux devices.           |
-| [![Bash Style Guide](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=bash-style-guide&theme=nord)](https://github.com/StrangeRanger/bash-style-guide)                         | Coding Standards | A style guide for writing safe, predictable, and portable bash scripts (not sh!).                                                 |
-| [![Clang Format (C#)](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=f7f87dd884760f3127adda98d3d4ab14)](https://gist.github.com/StrangeRanger/f7f87dd884760f3127adda98d3d4ab14)                       | Config File      | Clang Format configuration for C#.                                                                                                |
-| [![Bash If Statements](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=81de73f08234380053cd130ebd1da832)](https://gist.github.com/StrangeRanger/81de73f08234380053cd130ebd1da832)                      | Code             | Bash script to demonstrate the behavior of if statements when dealing with different types of variables.                          |
-| [![Spinning Stick](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=12e9b8292dc0d499a4fea42fdda93c03)](https://gist.github.com/StrangeRanger/12e9b8292dc0d499a4fea42fdda93c03)                          | Code             | Two different methods to create a spinning stick animation in the terminal, mainly when waiting for a process to complete.        |
+| Resource | Type | Description |
+| -------- | ---- | ----------- |
+| [![Customized Unix Terminal](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=customized-unix-terminal&theme=nord)](https://github.com/StrangeRanger/customized-unix-terminal) | Configurations | A collection of configurations that I use to modify my terminal's style and behavior, both on my Mac and Linux devices. |
+| [![Bash Style Guide](https://github-readme-stats-puce-eta.vercel.app/api/pin/?username=StrangeRanger&repo=bash-style-guide&theme=nord)](https://github.com/StrangeRanger/bash-style-guide) | Coding Standards | A style guide for writing safe, predictable, and portable bash scripts (not sh!). |
+| [![Clang Format (C#)](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=f7f87dd884760f3127adda98d3d4ab14)](https://gist.github.com/StrangeRanger/f7f87dd884760f3127adda98d3d4ab14) | Config File | Clang Format configuration for C#. |
+| [![Bash If Statements](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=81de73f08234380053cd130ebd1da832)](https://gist.github.com/StrangeRanger/81de73f08234380053cd130ebd1da832) | Code | Bash script to demonstrate the behavior of if statements when dealing with different types of variables. |
+| [![Spinning Stick](https://github-readme-stats-puce-eta.vercel.app/api/gist?id=12e9b8292dc0d499a4fea42fdda93c03)](https://gist.github.com/StrangeRanger/12e9b8292dc0d499a4fea42fdda93c03) | Code | Two different methods to create a spinning stick animation in the terminal, mainly when waiting for a process to complete. |
 -->
+
 <!-- TODO: Include https://gist.github.com/StrangeRanger/b8153017fe8195a2d038890e28c9aa63 at some point after updating the gist... -->
+'
 <!--
 </div>
 
@@ -174,6 +172,7 @@ These resources reflect my commitment to quality, efficiency, and collaboration 
 
 ## Referals
 
-| Platform     | Referal                                                                                                                                                                                                                                 | Description                                                                                           | Referal Benifits                                                                                                      |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Platform | Referal | Description | Referal Benifits |
+| -------- | ------- | ----------- | ---------------- |
 | DigitalOcean | [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=804853881045&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | A cloud hosting provider that offers cloud computing services and Infrastructure as a Service (IaaS). | Those who sign up using my referral link will receive $200 in credits for 60 days, and I will receive $25 in credits. |
+| Proton | [![Proton Referral Badge](https://img.shields.io/badge/-Proton-292d3e?style=for-the-badge&amp;logo=Proton)](https://pr.tn/ref/47PR38F1) | A privacy-focused ecosystem offering encrypted email, VPN, password management, cloud storage, and online productivity tools designed to protect user data and digital communications. | Refer to Proton's [referral program page](https://proton.me/support/referral-program) for information.
