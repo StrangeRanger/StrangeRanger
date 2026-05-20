@@ -166,7 +166,6 @@ I take pride in sharing knowledge and establishing best practices, whether it's 
 -->
 
 <!-- TODO: Include https://gist.github.com/StrangeRanger/b8153017fe8195a2d038890e28c9aa63 at some point after updating the gist... -->
-'
 <!--
 </div>
 
