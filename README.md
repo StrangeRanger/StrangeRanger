@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,identify-root-user-logins,StrangeRanger,apple-music-deduplicator"
+        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -100,6 +100,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 
 | Repository | Reason for Exclusion |
 | ---------- | -------------------- |
+| [AniRewind](https://github.com/StrangeRanger/ani-rewind) | All the code in this project was written by Codex. |
 | [Apple Music Deduplicator](https://github.com/StrangeRanger/apple-music-deduplicator) | All the code in this project was written by Codex. |
 | [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups) | The vast majority of the code (e.g., Docker-based files) was not written by me. |
 | [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD) | Contains only class assignments, not independent projects or course finals. |
