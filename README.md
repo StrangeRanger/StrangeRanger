@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-readme-stats-rust-three-77.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,github-readme-stats,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -107,7 +107,6 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 | [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | Contains only a class assignment, not an independent project or course final. |
 | [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | Contains only a class assignment, not an independent project or course final. |
 | [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | Contains only a class assignment, not an independent project or course final. |
-| [Github README Stats](https://github.com/StrangeRanger/github-readme-stats) | A fork I have not contributed to and do not plan to. |
 | [Identify Root User Logins](https://github.com/StrangeRanger/identify-root-user-logins) | Code has been migrated to another repository; including it here would duplicate language usage stats. |
 | [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger) | Not a code repository; it is a profile README written in Markdown. |
 
@@ -121,7 +120,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 
 <div align="center">
     <a href="https://github.com/StrangeRanger">
-        <img src="https://github-readme-stats-rust-three-77.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
     </a>
     <!-- <br />
     <a href="https://github.com/StrangeRanger">
@@ -139,12 +138,12 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 | Repository | Category |
 | ---------- | -------- |
-| [![Linux Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
-| [![HThompson](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
-| [![Chezmoi Dotfiles](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=dotfiles&theme=nord)](https://github.com/StrangeRanger/dotfiles) | Configuration Files |
-| [![Mass Git](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Git Tools |
-| [![macOS Security Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
-| [![NadekoBot Bash Scripts](https://github-readme-stats-rust-three-77.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
+| [![Linux Security Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
+| [![HThompson](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
+| [![Chezmoi Dotfiles](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=dotfiles&theme=nord)](https://github.com/StrangeRanger/dotfiles) | Configuration Files |
+| [![Mass Git](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Git Tools |
+| [![macOS Security Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
+| [![NadekoBot Bash Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
 
 </div>
 
