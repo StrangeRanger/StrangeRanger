@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
+        src="https://github-stats-extended-frontend-pink-seven.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
         alt="Hunter's Github Stats"
     />
 </a>
@@ -120,7 +120,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 
 <div align="center">
     <a href="https://github.com/StrangeRanger">
-        <img src="https://github-stats-extended.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
+        <img src="https://github-stats-extended-frontend-pink-seven.vercel.app/api?username=StrangeRanger&show_icons=true&theme=nord&count_private=true" alt="Hunter's Github Stats" />
     </a>
     <!-- <br />
     <a href="https://github.com/StrangeRanger">
@@ -138,12 +138,12 @@ Below is a list of projects and repositories I've worked on that I consider part
 
 | Repository | Category |
 | ---------- | -------- |
-| [![Linux Security Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
-| [![HThompson](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
-| [![Chezmoi Dotfiles](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=dotfiles&theme=nord)](https://github.com/StrangeRanger/dotfiles) | Configuration Files |
-| [![Mass Git](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Git Tools |
-| [![macOS Security Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
-| [![NadekoBot Bash Scripts](https://github-stats-extended.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
+| [![Linux Security Scripts](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=linux-security-scripts&theme=nord)](https://github.com/StrangeRanger/linux-security-scripts) | Security |
+| [![HThompson](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=HThompson&theme=nord)](https://github.com/StrangeRanger/HThompson) | Website |
+| [![Chezmoi Dotfiles](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=dotfiles&theme=nord)](https://github.com/StrangeRanger/dotfiles) | Configuration Files |
+| [![Mass Git](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=mass-git&theme=nord)](https://github.com/StrangeRanger/mass-git) | Git Tools |
+| [![macOS Security Scripts](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=macos-security-scripts&theme=nord)](https://github.com/StrangeRanger/macos-security-scripts) | Security |
+| [![NadekoBot Bash Scripts](https://github-stats-extended-frontend-pink-seven.vercel.app/api/pin/?username=StrangeRanger&repo=NadekoBot-BashScript&theme=nord)](https://github.com/StrangeRanger/NadekoBot-BashScript) | Discord Bot Installer/Manager |
 
 </div>
 
