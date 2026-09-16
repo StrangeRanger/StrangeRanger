@@ -103,10 +103,6 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 | [AniRewind](https://github.com/StrangeRanger/ani-rewind) | All the code in this project was written by Codex. |
 | [Apple Music Deduplicator](https://github.com/StrangeRanger/apple-music-deduplicator) | All the code in this project was written by Codex. |
 | [CTF Write Ups](https://github.com/StrangeRanger/CTF-Write-Ups) | The vast majority of the code (e.g., Docker-based files) was not written by me. |
-| [EWU CSCD](https://github.com/StrangeRanger/EWU-CSCD) | Contains only class assignments, not independent projects or course finals. |
-| [EWU CSCD 371 2023 Winter](https://github.com/StrangeRanger/EWU-CSCD371-2023-Winter) | Contains only a class assignment, not an independent project or course final. |
-| [EWU CSCD 379 2023 Spring](https://github.com/StrangeRanger/EWU-CSCD379-2023-Spring) | Contains only a class assignment, not an independent project or course final. |
-| [EWU CSCD 396 2023 Fall](https://github.com/StrangeRanger/EWU-CSCD396-2023-Fall) | Contains only a class assignment, not an independent project or course final. |
 | [Identify Root User Logins](https://github.com/StrangeRanger/identify-root-user-logins) | Code has been migrated to another repository; including it here would duplicate language usage stats. |
 | [StrangeRanger](https://github.com/StrangeRanger/StrangeRanger) | Not a code repository; it is a profile README written in Markdown. |
 
