@@ -14,7 +14,7 @@ My name is Hunter T., and I am a computer science major with a minor in cybersec
 <a href="https://github.com/StrangeRanger?tab=repositories&q=&type=&language=&sort=" target="_blank">
     <img
         align="right"
-        src="https://github-stats-extended-frontend-pink-seven.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=8&exclude_repo=CTF-Write-Ups,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,identify-root-user-logins,StrangeRanger,apple-music-deduplicator,ani-rewind"
+        src="https://github-stats-extended-frontend-pink-seven.vercel.app/api/top-langs/?username=StrangeRanger&layout=compact&theme=nord&langs_count=6&exclude_repo=ani-rewind,apple-music-deduplicator,CTF-Write-Ups,CYBR-410,EWU-CSCD,EWU-CSCD371-2023-Winter,EWU-CSCD379-2023-Spring,EWU-CSCD396-2023-Fall,identify-root-user-logins,NZWalks,StrangeRanger"
         alt="Hunter's Github Stats"
     />
 </a>
